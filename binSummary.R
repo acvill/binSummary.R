@@ -3,7 +3,7 @@
 # last edited 31 Oct 2022, Albert Vill, acv46@cornell.edu
 
 # Functionality
-## merges the outputs of checkm and gtdbtk from clean_assemble_bin.sh
+## merges the outputs of checkm, checkm2, and gtdbtk
 
 # Output
 ## a single summary file, ${NAME}_binSummary.txt
